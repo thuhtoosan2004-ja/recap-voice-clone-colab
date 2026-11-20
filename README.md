@@ -1,10 +1,15 @@
-# Recap Studio — Gemini Voice Clone (Colab)
+# Notebooks
 
-Open in Colab:
+## `gemini_voice_clone_colab.ipynb`
+
+### ဖွင့်ရန်
 
 https://colab.research.google.com/github/thuhtoosan2004-ja/recap-voice-clone-colab/blob/main/gemini_voice_clone_colab.ipynb
 
-1. Run cells top to bottom
-2. Paste Gemini API key
-3. Upload reference + consent audio
-4. Copy `voice_...` into Recap Studio → Colab Voice ID
+### အရေးကြီး — Consent
+
+Gemini API က **မြန်မာ Consent မခံပါ**။ Consent အသံကို အင်္ဂလိပ်စာသားအတိုင်း ဖတ်ရပါမယ်။
+
+> I am the owner of this voice and I consent to Google using this voice to create a synthetic voice model.
+
+Reference အသံက မြန်မာလို ပုံမှန်ပြောသံ (~10–30s) ဖြစ်နိုင်ပါတယ်။
